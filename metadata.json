@@ -1,0 +1,6 @@
+{
+  "name": "AUNA — Timeless Elegance",
+  "description": "Premium self-winding watch catalog and Three.js 3D interaction experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

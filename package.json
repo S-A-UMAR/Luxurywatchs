@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'No compilation step needed for static assets'",
+    "lint": "echo 'No linting required'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "three": "^0.185.1"
+  }
+}
